@@ -1,0 +1,95 @@
+
+
+h1{
+  text-align:center;
+  color:#ee78ca;
+  text-shadow: 2px 2px 3px #ee2bff;
+  font-size: 6em;
+  font-family: 'Delius Swash Caps', cursive;
+  background:
+}
+
+body {
+  background : url('macarons.jpg') no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  width : 100%;
+  margin: 0;
+  padding: 0;
+}
+#bloc_page{
+  display : flex;
+  justify-content: space-around;
+}
+
+#licorne{
+  position: fixed;
+  height: 400px;
+  line-height: 520px;
+  width : 400px;
+  font-size: 5em;
+  color:#ee78ca;
+  text-shadow: 2px 2px 3px #ee2bff;
+  text-align : center;
+  vertical-align: bottom;
+  margin-top : 6%;
+  font-family: 'Delius Swash Caps', cursive;
+  left : 0%;
+
+}
+.du{
+background:url('Unicorn-Macarons-25.png') no-repeat center center;
+}
+.dw{
+ background:url('Unicorn-Macaronsclik.png') no-repeat center center;
+
+}
+
+#multiplier{
+  position: fixed;
+  left:42%;
+  height: 200px;
+  width: 200px;
+  font-size: 1.1em;
+  color:#21b176;
+  font-weight: bold;
+  text-shadow: 2px 2px 3px white;
+  text-align : center;
+  vertical-align: bottom;
+  font-family: 'Delius Swash Caps', cursive;
+  display : inline-block;
+}
+
+.tas{
+  background: url('tas1.png') no-repeat top center;
+}
+.arc{
+    background: url('tas2.png') no-repeat top center;
+}
+
+#autoclicker{
+  position: fixed;
+  height: 310px;
+  width: 390px;
+  font-size: 1.1em;
+  color:#089f9f;
+  font-weight: bold;
+  text-shadow: 2px 2px 3px white;
+  text-align : center;
+  vertical-align: bottom;
+  font-family: 'Delius Swash Caps', cursive;
+
+  left:70%;
+}
+
+.chat{
+  background: url('chatlicorne1.png') no-repeat top center;
+}
+.chatarc{
+    background: url('chatlicorne2.png') no-repeat top center;
+}
